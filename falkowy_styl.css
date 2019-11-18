@@ -1,3 +1,25 @@
 body{
 	background: #40E0D0;
 }
+ul{
+	float: left;
+	width: 300px;
+	color: #DC143C;
+	border: 5px;
+	border-left: 20px;
+}
+a{
+	border:5px;
+	border-left:20px;
+}
+select:hover{
+	border: 3px solid #ADFF2F;
+}
+p, img{
+	float:right;
+	margin-left:50px;
+}
+ank{
+	float:right;
+	color:#FFFFFF;
+}
